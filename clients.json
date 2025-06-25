@@ -1,1 +1,5 @@
-
+{
+  "BASIC": "console.log('[Client] BASIC loaded');",
+  "PREMIUM": "console.log('[Client] PREMIUM loaded');",
+  "ADMIN": "console.log('[Client] ADMIN loaded');"
+}
